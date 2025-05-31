@@ -1,0 +1,16 @@
+{
+  "name": "swiftnest-solution",
+  "version": "1.0.0",
+  "description": "A solution for Swiftnest project.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'"
+  },
+  "author": "Pislchen",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
